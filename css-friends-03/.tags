@@ -1,0 +1,29 @@
+.content	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/css/03-layout.css	/^.content{$/;"	function	line:2
+.content-sidebar	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/css/03-layout.css	/^.content-sidebar {$/;"	function	line:15
+.content-main	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/css/03-layout.css	/^.content-main {$/;"	function	line:23
+html	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^<html>$/;"	function	line:2
+head	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^<head>$/;"	function	line:3
+meta	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^  <meta charset="utf-8">$/;"	function	line:4
+title	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^  <title>App Academy Friends | PHASE 2: Notifications<\/title>$/;"	function	line:5
+link	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^  <link rel="stylesheet" href="http:\/\/fonts.googleapis.com\/css?family=Roboto:300,400,700" type="text\/css">$/;"	function	line:6
+link	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^  <link rel="stylesheet" href="css\/00-reset.css" type="text\/css">$/;"	function	line:7
+link	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^  <link rel="stylesheet" href="css\/01-header.css" type="text\/css">$/;"	function	line:8
+link	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^  <link rel="stylesheet" href="css\/02-notifications.css" type="text\/css">$/;"	function	line:9
+link	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^  <link rel="stylesheet" href="css\/03-layout.css" type="text\/css">$/;"	function	line:10
+body	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^<body>$/;"	function	line:12
+header	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^  <header class="header">$/;"	function	line:14
+nav	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^    <nav class="header-nav">$/;"	function	line:15
+h	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^      <h1 class="header-logo">$/;"	function	line:17
+a	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^        <a href="#">App Academy Friends<\/a>$/;"	function	line:18
+ul	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^      <ul class="header-list">$/;"	function	line:21
+li	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^        <li>$/;"	function	line:22
+a	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^          <a href="#">Notifications <strong class="badge">3<\/strong><\/a>$/;"	function	line:23
+ul	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^          <ul class="header-notifications">$/;"	function	line:24
+li	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^            <li><a href="#">Constance likes your photo.<\/a><\/li>$/;"	function	line:25
+li	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^            <li><a href="#">Tommy left you a comment.<\/a><\/li>$/;"	function	line:26
+li	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^            <li><a href="#">Jonathan is now following you.<\/a><\/li>$/;"	function	line:27
+li	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^        <li><a href="#">Profile<\/a><\/li>$/;"	function	line:30
+li	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^        <li><a href="#">Settings<\/a><\/li>$/;"	function	line:31
+main	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^<main class="content">$/;"	function	line:36
+section	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^  <section class="content-sidebar">$/;"	function	line:37
+section	/Users/appacademy/Desktop/W5D4/css-friends-03/skeleton/03-layout.html	/^  <section class="content-main">$/;"	function	line:40
